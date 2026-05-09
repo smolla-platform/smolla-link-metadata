@@ -15,7 +15,7 @@ concurrency:
 jobs:
     deploy:
         name: deploy-test
-        runs-on: [self-hosted, smolla-link-metadata]
+        runs-on: [self-hosted, smolla-platform-runner]
 
         steps:
             - name: Checkout
