@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Smolla.LinkMetadata.Host/Smolla.LinkMetadata.Host.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Smolla.LinkMetadata.Tests/Smolla.LinkMetadata.Tests.csproj" />
+  </Folder>
+</Solution>
